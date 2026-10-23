@@ -1,0 +1,10 @@
+- Name: CollabUtils2
+  Version: 1.13.5
+  DLL: Celeste.Mods.CollabUtils2.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.6531.0
+
+  OptionalDependencies:
+    - Name: CelesteTAS
+      Version: 3.47.1
